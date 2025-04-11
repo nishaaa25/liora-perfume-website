@@ -3,7 +3,7 @@ import menuIcon from "@/public/assets/menu.png";
 
 export default function Navbar() {
   return (
-    <div className="w-full absolute top-0">
+    <div className="w-full absolute top-0 navbar">
       <nav className="flex-center gap-32 w-full mx-auto relative py-8 ">
         <h1 className="logo text-[2vw] leading-[2vw] tracking-[1px] font-[800] ">
           LIORA
